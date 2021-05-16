@@ -104,7 +104,7 @@ for item in boxes:
 #             print("checkbox: ", checkbox)
             checkbox.click()
         else:
-#             print("not in keys")
+            print("not in keys")
     except NoSuchElementException:
         print("No such element exception")
     except StaleElementReferenceException:
