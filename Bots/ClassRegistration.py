@@ -15,7 +15,7 @@ import string
 
 PATH = "/Users/Maria/Desktop/Projects/Bots/chromedriver"
 
-login_info = {"username": "gongc7", "password": "Mvvclub25!"}
+login_info = {"username": "", "password": ""}
 # classes = ["35750", "35751", "35754"]
 classes = ["34160", "34165"]
 
